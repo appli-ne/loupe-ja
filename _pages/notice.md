@@ -5,11 +5,18 @@ include_in_header: false
 icon_only_header: true
 ---
 # お知らせ
-2020/07/22
+2020/08/16
 <br>
 <br>
-お知らせ機能を実装しました！
-
+バージョン 1.3.0
+<br>
+カメラ切替ボタンを追加しました！
+<br>
+（ミラーアプリが起動します）
+<br>
+[https://appli-ne.github.io/mirror-ja/](https://appli-ne.github.io/mirror-ja/)<br>
+<br>
+<br>
 他のアプリもよろしくお願いします↓
 <br>
 [https://appli-ne.github.io/](https://appli-ne.github.io/)
