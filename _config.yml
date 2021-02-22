@@ -27,7 +27,7 @@ your_name                                 : appli-ne（アプリね）
 your_link                                 : https://appli-ne.github.io/
 your_city                                 : Japan                                
 email_address                             : info.appline.jp@gmail.com
-facebook_username                         :                                           
+facebook_username                         : appline.jp                                          
 instagram_username                        : 
 twitter_username                          : appli_ne
 github_username                           : appli-ne
@@ -38,12 +38,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : New!!!
-    description                           : Android 11 対応<br>ダークテーマに対応しました！
-    fontawesome_icon_name                 : info-circle
-
   - title                                 : カラーフィルター
-    description                           : カラーフィルターで見やすくできます！<br>（ネガティブ・グレースケール・セピア・ビットレイ）
+    description                           : カラーフィルターで見やすくできます！<br>（ネガティブ・グレースケール・セピア・バイナリ）
     fontawesome_icon_name                 : info-circle
 
   - title                                 : プレビューの一時停止
@@ -77,6 +73,10 @@ features                                  :
   - title                                 : 静止画の共有
     description                           : 静止画を共有します。
     fontawesome_icon_name                 : share-alt
+
+  - title                                 : その他
+    description                           : ダークテーマに対応しました！
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : 対応 OS
     description                           : Android 5.0 以降
