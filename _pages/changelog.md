@@ -2,10 +2,18 @@
 layout: page
 title: リリースノート
 include_in_header: false
-date: 2021-02-22 18:00
+date: 2021-03-05 13:00
 ---
 
 # `リリースノート`
+<br>
+
+## **Version 1.6.1**
+2021/03/05
+- 定期購入の管理を追加
+- 誤字修正
+
+---
 <br>
 
 ## **Version 1.6.0**
