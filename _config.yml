@@ -38,6 +38,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : ガイドビュー（x1表示）
+    description                           : ガイドビューでズームしやすくなります。
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : カラーフィルター
     description                           : カラーフィルターで見やすくできます！<br>（ネガティブ・グレースケール・セピア・バイナリ）
     fontawesome_icon_name                 : info-circle
