@@ -2,10 +2,16 @@
 layout: page
 title: リリースノート
 include_in_header: false
-date: 2022-01-26 18:00
 ---
 
 # `リリースノート`
+<br>
+
+## **Version 1.9.2**
+2022/02/06
+- 広告の表示タイミングを改善しました
+
+---
 <br>
 
 ## **Version 1.9.1**
